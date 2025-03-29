@@ -1,7 +1,0 @@
-1. Para criacao ou para apontar para o repositorio ja criado: team->share project e escolho qual repositorio
-2. Para adicionar os arquivos para subir nos repositorios local e nas nuvens
-3. Vou ao githug configuracao->setting->configuracao do desenvolvedor->token classico.
-4. gerado o t.o...ok..e..n
-5. 
-6. salvando o token gerado: windows->preferences->git->configuracao->add a configuration entry->key: user.password e o value: token 
-7
