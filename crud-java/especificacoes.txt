@@ -4,4 +4,4 @@
 4. gerado o t.o...ok..e..n
 5. 
 6. salvando o token gerado: windows->preferences->git->configuracao->add a configuration entry->key: user.password e o value: token 
-7
+
