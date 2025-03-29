@@ -2,3 +2,4 @@
 2. Para adicionar os arquivos para subir nos repositorios local e nas nuvens
 3. Vou ao githug configuracao->setting->configuracao do desenvolvedor->token classico.
 4. gerado o token
+6.
